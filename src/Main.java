@@ -10,7 +10,7 @@ public class Main {
         int numeroAleatorio = new Random().nextInt(100);
         System.out.println(numeroAleatorio);
         Scanner chute = new Scanner(System.in);
-
+//teste
         for (int tentativas = 1; tentativas < 6; tentativas++) {
             int tentativa;
             String mensagem = "Digite a tentativa N° " + tentativas + ":";
